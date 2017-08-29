@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise02</string>
+    <string name="cal">Calculate</string>
+    <string name="div">Divide</string>
+    <string name="mul">Multiply</string>
+    <string name="res">Substract</string>
+    <string name="sal">Result</string>
+    <string name="sum">Add</string>
+    <string name="numb">Number</string>
+</resources>
