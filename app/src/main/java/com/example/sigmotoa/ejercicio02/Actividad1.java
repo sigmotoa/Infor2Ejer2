@@ -55,7 +55,7 @@ public class Actividad1 extends AppCompatActivity {
                 {
                     if(Double.parseDouble(datob.getText().toString())==0.0)
                     {
-                        operado=0;
+                        salida.setText("Error");
                     }
                     else {
                         operado=Double.parseDouble(datoa.getText().toString())/Double.parseDouble(datob.getText().toString());
